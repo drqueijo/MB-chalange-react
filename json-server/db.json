@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Xxx-la",
+        "cost": 10,
+        "quantity": 1000,
+        "location": "enterprise",
+        "familyId": 1, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 52,
+        "name": "Ventotexon",
+        "cost": 10,
+        "quantity": 1000,
+        "location": "enterprise",
+        "familyId": 1, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 123,
+        "name": "Mooncoms",
+        "cost": 10,
+        "quantity": 1000,
+        "location": "enterprise",
+        "familyId": 1, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 42,
+        "name": "Ontoplex",
+        "cost": 10,
+        "quantity": 1000,
+        "location": "enterprise",
+        "familyId": 1, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 121,
+        "name": "Hattam",
+        "cost": 10,
+        "quantity": 1000,
+        "location": "enterprise",
+        "familyId": 1, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 412,
+        "name": "Smartex",
+        "cost": 10,
+        "quantity": 1000,
+        "location": "enterprise",
+        "familyId": 1, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 2,
+        "name": "Daltfind",
+        "cost": 20,
+        "quantity": 2000,
+        "location": "enterprise",
+        "familyId": 2, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 3,
+        "name": "Lamquodox",
+        "cost": 30,
+        "quantity": 3000,
+        "location": "college",
+        "familyId": 2, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 4,
+        "name": "Houndtronics",
+        "cost": 40,
+        "quantity": 4000,
+        "location": "college",
+        "familyId": 3, 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ]
+}

@@ -1,0 +1,40 @@
+.header {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: white;
+}
+.header__container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header__container--logo {
+    width: 33%;
+    color: black;
+}
+.header__container--logo:hover {
+    color: black;
+}
+.header__container--links {
+    margin: auto;
+    width: 33%;
+    text-align: center;
+}
+.header__container--links button {
+    margin: auto;
+    width: 33%;
+    text-align: center;
+}
+.header__container--link {
+    margin:0 10px;
+    color:black;
+}
+.header__container--link:hover {
+    font-weight:bold;
+    color:black;
+}
+.header__container--button {
+    width:33%;
+    text-align: right;
+}

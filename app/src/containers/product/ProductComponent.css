@@ -1,0 +1,18 @@
+.ui.cards>.card {
+    margin: 20px;
+}
+
+.product__content {
+    padding: 20px 20px;
+}
+.product__content--title {
+    font-size: 18px;
+    color: black;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.product__content--label {
+    font-size: 14px;
+    color: black;
+    font-weight: 300;
+}
